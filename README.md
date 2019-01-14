@@ -6,4 +6,5 @@
 
 2019年准备阅读的书单
 
-* [] 《算法图解》
+* [《算法图解》](grokking-algorithms/)
+* [《编程珠玑》](programming-pearls/)
